@@ -64,9 +64,9 @@ If score is below 55 it should print ”Sorry, You did not pass.”.
  */
 
     {
-        int grade = 54;
+        int score = 54;
 
-        if (grade >= 65) {
+        if (score >= 65) {
             System.out.println("Hurray , You passed!");
         } else if (grade < 65 && grade >= 55) {
             System.out.println("You are almost there.");
