@@ -99,7 +99,6 @@ https://stackoverflow.com/users/19139160/jozsef-babits?tab=profile
         josef.lastNam = "B";
         josef.proLang = "JAVA";
 
-
         String userInfo = "Users name is " + josef.firstNam + " and his last name is " + josef.lastNam + " and he is practicing " + josef.proLang + ".";
         System.out.println(userInfo);
 
