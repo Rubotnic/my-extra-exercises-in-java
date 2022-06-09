@@ -55,6 +55,8 @@ class and assign values to the object
 
     }
 
+}
+
 /*
 5. Make an integer called score and assign a value to it.
 Create an if statement that should print out Hurray , You passed !”
@@ -86,6 +88,7 @@ https://stackoverflow.com/users/19139160/jozsef-babits?tab=profile
     7. Use your new knowledge to take a String as input from the user and store it in
     a String object.
      */
+
         class User {
             String firstNam;
             String lastNam;
@@ -97,7 +100,7 @@ https://stackoverflow.com/users/19139160/jozsef-babits?tab=profile
         josef.proLang = "JAVA";
 
 
-        String userInfo = "Users name is " + josef.firstNam + " and his last name is " + josef.lastNam + " and he is practicing " + josef.proLang;
+        String userInfo = "Users name is " + josef.firstNam + " and his last name is " + josef.lastNam + " and he is practicing " + josef.proLang + ".";
         System.out.println(userInfo);
 
         {
