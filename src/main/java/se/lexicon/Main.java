@@ -25,7 +25,7 @@ result
 */
         double deciNum1 = 2.2;
         double deciNum2 = 1.1;
-        double result = (deciNum1 + deciNum2);
+        double result = deciNum1 + deciNum2;
         System.out.print(result);
 
 /*
